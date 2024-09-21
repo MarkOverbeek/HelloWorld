@@ -1,3 +1,3 @@
 # HelloWorld
-This is some text to test the github
+This is sime text to test the github
 this is some new tekt
